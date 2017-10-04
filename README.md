@@ -15,6 +15,7 @@ $ pipenv shell  # start virtualenv shell
 
 # TODO
 * Add travis tests and coverage
+* Add multiple accounts in one pool support
 * Store state in redis
 * Allow users to add own pools accounts with owner-only access
 * Docker environment configuration support
