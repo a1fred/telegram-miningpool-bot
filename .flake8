@@ -1,0 +1,4 @@
+[flake8]
+ignore = D203, E261, C901
+max-line-length = 160
+exclude = __pycache__

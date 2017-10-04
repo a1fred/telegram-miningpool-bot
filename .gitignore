@@ -1,0 +1,4 @@
+*.py[cod]
+.vscode
+.mypy_cache
+settings.ini

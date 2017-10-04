@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+pytelegrambotapi = "==3.2.1"
+requests = "==2.18.4"
+redis = "==2.10.6"
+
+
+[dev-packages]
+"flake8" = "*"
+mypy = "*"
+
+
+[requires]
+python_version = "3.6"
