@@ -1,7 +1,11 @@
 # Telegram mining pool statistics bot
-
 Bot helps you retreive your farm statistics and pool balance
+
+
+# Usage
 See configuration example in `settings.sample.ini`
+TODO...
+
 
 # Develop
 ```sh
