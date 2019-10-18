@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 
 pytelegrambotapi = "==3.2.1"
-requests = "==2.18.4"
+requests = "==2.20.0"
 redis = "==2.10.6"
 
 
